@@ -1,2 +1,2 @@
-# Rko.githup.io
+# Rko
 my own website
