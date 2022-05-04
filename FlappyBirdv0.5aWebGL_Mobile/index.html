@@ -91,25 +91,12 @@
         canvas.style.width = window.innerWidth + 'px';
         canvas.style.height = window.innerHeight + 'px';
 
-        unityShowBanner('This is alpha version of game. there could be bugs. If you find some, https://github.com/R0K0R);
+        unityShowBanner('This is alpha build. The game will be unstable');
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-
-        var meta = document.createElement('meta');
-        meta.name = 'viewport';
-        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
-        document.getElementsByTagName('head')[0].appendChild(meta);
-        container.className = "unity-mobile";
-
-        // To lower canvas resolution on mobile devices to gain some
-        // performance, uncomment the following line:
-        // config.devicePixelRatio = 1;
-
-        canvas.style.width = window.innerWidth + 'px';
-        canvas.style.height = window.innerHeight + 'px';
-
-        unityShowBanner('This is alpha version of game. there could be bugs. If you find some, https://github.com/R0K0R);
+        canvas.style.width = "720px";
+        canvas.style.height = "1480px";
       }
 
       loadingBar.style.display = "block";
