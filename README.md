@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Flappy Bird Game
 [PC Demo](https://r0k0r.github.io/Rko/FlappyBirdWebGL_PC/index.html)
 
-[Mobile Demo](https://r0k0r.github.io/Rko/FlappyBirdv0.5aWebGL_Mobile/index.html)
+[Mobile Demo](https://r0k0r.github.io/Rko/FlappyBirdWebGL_Mobile/index.html)
