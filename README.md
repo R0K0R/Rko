@@ -38,4 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Unity
 
-### 2D Action Game
+### Chess
+
+## School
+
+### [마지막 이벤트 골든벨](https://docs.google.com/presentation/d/1AwNjuSkxxEVqX6Nw9-NynifZBLlhgaBOoKPh6NmI9-E/edit?usp=sharing)
