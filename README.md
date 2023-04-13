@@ -40,9 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## School
 
-### [마지막 이벤트 골든벨](https://docs.google.com/presentation/d/1AwNjuSkxxEVqX6Nw9-NynifZBLlhgaBOoKPh6NmI9-E/edit?usp=sharing)
-
-### [유니티 동아리 발표자료](https://docs.google.com/presentation/d/16IMKRgbY9YhGtkhsTd1fmLpuSSxRNvuWwhELE3wE6js/edit?usp=drivesdk)
-
-### [유니티 동아리 완성본 실행파일](https://drive.google.com/drive/folders/1gP0g3a-VRY7yJaC0yz_M0IpsVHkJ5wes?usp=sharing)
-안에 있는 파일 모두 다운로드 받은 후 같은 폴더에 두고 실행하면 됨
+### [게임개발 동아리 디스코드 가입 링크](https://discord.gg/6k58T7Ra8s)
