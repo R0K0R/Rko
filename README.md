@@ -38,6 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Unity
 
+### [Omok](https://r0k0r.github.io/Rko/Omok_Web/index.html)
+
 ## School
 
 ### [게임개발 동아리 디스코드 가입 링크](https://discord.gg/6k58T7Ra8s)
